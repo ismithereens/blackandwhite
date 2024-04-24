@@ -1,0 +1,45 @@
+:root {
+  --black: #131212;
+  --white: white;
+}
+
+body {
+  background-color: var(--black);
+  color: var(--white);
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+.textoURL {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  text-align: center;
+  margin-left: 65px;
+}
+
+.inputURL {
+  text-align: center;
+  margin-left: 100px;
+}
+
+#img {
+  padding: 9px 15px;
+  border-radius: 5px;
+}
+
+.botonURL {
+  text-align: center;
+  margin-left: 90px;
+}
+
+.estiloBoton {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--black);
+  color: var(--white);
+  padding: 9px 17px;
+  border-radius: 5px;
+}
